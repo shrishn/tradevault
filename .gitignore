@@ -1,0 +1,17 @@
+# Secrets - never commit these
+backend/src/main/resources/application.properties
+
+# Java build output
+backend/target/
+
+# Node modules
+frontend/node_modules/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
